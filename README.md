@@ -15,12 +15,14 @@ https://www.comms-express.com/blog/what-does-an-ethernet-cable-do/#:~:text=The%2
 2.	Where is it used (or why is it relevant in the first place)
 -	https://transmitter.ieee.org/ethernet-hyper-connected-world/ 
 -	more sources will be added eventually, as this is the most important topic in this specific part
+
 ========================================================================================
 
 Part II – Gordan Konevski
 Main source: 
 https://www.analog.com/media/en/technical-documentation/application-notes/EE-269.pdf 
 -	This will be the main connection between the first and the second part. It will deal with the technicalities and components of ethernet and will introduce some example code. As such, it will go in great depths to describe the innerworkings of what makes ethernet such a relevant component of networking in general. The make-up of the topics and their chronology will be reworked and reordered as the final paper is being drafted.
+
 ========================================================================================
 
 Part III – Luca Brodo
