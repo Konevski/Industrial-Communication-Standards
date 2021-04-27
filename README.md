@@ -1,8 +1,5 @@
-# Industrial-Communication-Standards
-Ethernet/TTEthernet
-
-
-Preliminary Sketch:
+# Ethernet/TTEthernet
+# Preliminary Sketch:
 
 Part I – Wiktor Kochanek
 1.	7 Layer Model
