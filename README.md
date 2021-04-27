@@ -1,7 +1,7 @@
 # Ethernet/TTEthernet
-# Preliminary Sketch:
+## Preliminary Sketch:
 
-Part I – Wiktor Kochanek
+### Part I – Wiktor Kochanek
 1.	7 Layer Model
 -	What is does the model represent in general and what is the physical layer specifically? https://www.youtube.com/watch?v=kCuyS7ihr_E&ab_channel=danscourses (most relevant after 13:20)
 -	What is ethernet in the most basic sense
@@ -15,15 +15,15 @@ https://www.comms-express.com/blog/what-does-an-ethernet-cable-do/#:~:text=The%2
 
 ========================================================================================
 
-Part II – Gordan Konevski
-- Main source: 
+### Part II – Gordan Konevski
+- **Main source**: 
 https://www.analog.com/media/en/technical-documentation/application-notes/EE-269.pdf 
 -	This will be the main connection between the first and the second part. It will deal with the technicalities and components of ethernet and will introduce some example code. As such, it will go in great depths to describe the innerworkings of what makes ethernet such a relevant component of networking in general. The make-up of the topics and their chronology will be reworked and reordered as the final paper is being drafted.
 
 ========================================================================================
 
-Part III – Luca Brodo
-- Main source: https://web.archive.org/web/20140328151014/http://www.tttech.com/fileadmin/content/general/secure/TTEthernet/TTTech-TTEthernet-Scalable_Real-Time_Ethernet_Platform-Whitepaper.pdf
+### Part III – Luca Brodo
+- **Main source**: https://web.archive.org/web/20140328151014/http://www.tttech.com/fileadmin/content/general/secure/TTEthernet/TTTech-TTEthernet-Scalable_Real-Time_Ethernet_Platform-Whitepaper.pdf
 
 1.	What is TTEthernet
 -	No technicalities necessary, just a lay man’s explanation of what it is
