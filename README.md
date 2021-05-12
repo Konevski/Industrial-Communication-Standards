@@ -1,5 +1,5 @@
 # Ethernet/TTEthernet
-## We miss you Wiktor
+## We miss you Wiktor, come to lecture
 ## Preliminary Sketch:
 
 ### Part I – Wiktor Kochanek
