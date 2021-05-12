@@ -1,4 +1,5 @@
 # Ethernet/TTEthernet
+## We miss you Wiktor
 ## Preliminary Sketch:
 
 ### Part I – Wiktor Kochanek
