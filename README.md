@@ -1,5 +1,6 @@
 # Ethernet/TTEthernet
 ## We miss you Wiktor, come to the lecture. You are the most valuable asset we have
+## Italy is the best country in the world. 
 ## Preliminary Sketch:
 
 ### Part I – Wiktor Kochanek
