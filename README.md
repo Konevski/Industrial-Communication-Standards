@@ -1,6 +1,6 @@
 # Ethernet/TTEthernet
 ## We miss you Wiktor, come to the lecture. You are the most valuable asset we have. Stop watching anime
-## Italy is the best country in the world. 
+## Italy *used to be* the best country in the world. 
 ## Preliminary Sketch:
 
 ### Part I – Wiktor Kochanek
@@ -24,7 +24,7 @@ https://www.analog.com/media/en/technical-documentation/application-notes/EE-269
 
 ========================================================================================
 
-### Part III – Luca Brodo
+### Part III – Luca the Brodo
 - **Main source**: https://web.archive.org/web/20140328151014/http://www.tttech.com/fileadmin/content/general/secure/TTEthernet/TTTech-TTEthernet-Scalable_Real-Time_Ethernet_Platform-Whitepaper.pdf
 
 1.	What is TTEthernet
