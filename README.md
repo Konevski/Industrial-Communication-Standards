@@ -1,6 +1,6 @@
 # Ethernet/TTEthernet
 ## We miss you Wiktor, come to the lecture. You are the most valuable asset we have. Stop watching anime
-## Italy *used to be* the best country in the world. 
+## Italy is definitively the best country in the world. 
 ## Preliminary Sketch:
 
 ### Part I – Wiktor Kochanek
